@@ -1,0 +1,9 @@
+name: modeling
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - ipykernel
