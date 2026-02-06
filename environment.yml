@@ -2,8 +2,14 @@ name: modeling
 channels:
   - defaults
 dependencies:
+  - python <= 3.11
   - pandas
   - numpy
   - seaborn
   - matplotlib
   - ipykernel
+  - keras
+  - tensorflow
+  - pytorch
+  - scikit-learn
+  - pydot
